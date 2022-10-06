@@ -1,0 +1,15 @@
+{
+    "port": 3008,
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "medi_buddy_on_boarding_assignment",
+        "dialect": "mysql",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "idle": 10000
+        }
+    }
+}
